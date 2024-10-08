@@ -2,5 +2,7 @@
 using namespace std;
 int main(){
     cout<<"hello world";
-    
+    int num =3;
+int num2 = 5;
+int check = num + num2;
 }
